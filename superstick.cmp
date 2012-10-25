@@ -1,0 +1,10 @@
+Cmp-Mod V01 Created by CvPcb (2012-01-19 BZR 3256)-stable date = Thu 25 Oct 2012 04:14:13 PM PDT
+
+BeginCmp
+TimeStamp = /5089C705;
+Reference = U1;
+ValeurCmp = DRV88XX;
+IdModule  = tssop-28;
+EndCmp
+
+EndListe
